@@ -12,3 +12,5 @@ Aran Arora
 - [ ] Promotes easy transferability
 - [ ] Decreasing technical debt
 - [ ] Making software robust
+
+ Self evaluation: 4/5
