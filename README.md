@@ -13,4 +13,4 @@ Aran Arora
 - [ ] Decreasing technical debt
 - [ ] Making software robust
 
- Self evaluation: 4/5
+ Self evaluation: 3.5/4
